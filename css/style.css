@@ -1,0 +1,106 @@
+
+header {
+    height: 150px;
+    
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+header img {
+    float: left;
+    margin-top: 50px;
+    margin-right: 5px;
+}
+
+header h1 {
+    display: inline-block;
+    /* float: left; */
+    margin-top: 40px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 40px;
+    line-height: 34px;
+    margin-bottom: 5px;
+}
+
+header h2 {
+    font-size: 10px;
+    
+    /* display: inline-block; */
+}
+
+nav ul {
+    margin: 0 auto;
+    float: right;
+    /* margin-right: 20\px; */
+    
+}
+nav div {
+    display: inline;
+}
+
+nav li {
+    
+    display: inline-block
+}
+
+main {
+    /* margin-right: 100px;
+    margin-left: 100px; */
+    margin-top: 35px;
+}
+
+main h2 {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 45px;
+}
+
+#pizza {
+    width: 85%;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+p {
+    /* margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px; */
+    margin: 30px 100px 0px 100px;
+}
+
+#paper {
+    margin-top: 15px;
+    background-image: url(../img/list-bg.png);
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 1500px;
+}
+
+#recipe-one {
+    column-count: 2;
+}
+
+
+
+button {
+    border: none;
+    color: #fff;
+    background: #000;
+    font-size: 18px;
+    padding: 10px 30px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: 350ms;
+}
+
+button:hover {
+    background: #444;
+}
+
+
+
+
+
+
